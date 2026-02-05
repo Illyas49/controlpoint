@@ -41,7 +41,7 @@ function App() {
               className="flex items-center space-x-2 group"
             >
               <Shield className="h-7 w-7 sm:h-8 sm:w-8 text-purple-600 group-hover:text-purple-700 transition-colors" />
-              <span className="text-xl sm:text-2xl font-semibold text-gray-900 tracking-tight">ControlPoint</span>
+              <span className="text-xl sm:text-2xl font-semibold text-gray-900 tracking-tight">Assurix</span>
             </button>
 
             <div className="hidden lg:flex items-center space-x-1">
@@ -123,7 +123,7 @@ function HomePage({ setCurrentPage }: { setCurrentPage: (page: string) => void }
             </h1>
 
             <p className="text-lg sm:text-xl text-gray-600 mb-8 sm:mb-12 leading-relaxed max-w-3xl mx-auto animate-slideUp" style={{ animationDelay: '0.1s' }}>
-              ControlPoint examines how limits, controls, and safety features are surfaced and explained within regulated digital platforms.
+              Assurix examines how limits, controls, and safety features are surfaced and explained within regulated digital platforms.
             </p>
 
             <div className="flex flex-col sm:flex-row gap-4 justify-center animate-slideUp" style={{ animationDelay: '0.2s' }}>
@@ -150,7 +150,7 @@ function HomePage({ setCurrentPage }: { setCurrentPage: (page: string) => void }
           <div className="max-w-3xl mx-auto text-center mb-12 sm:mb-16">
             <h2 className="text-3xl sm:text-4xl font-bold text-gray-900 mb-6">Understanding control effectiveness</h2>
             <p className="text-lg text-gray-600 leading-relaxed">
-              User safeguards are only effective if they are discoverable, understandable, and manageable. ControlPoint focuses on how platforms present responsible-use tools and ongoing account controls, with an emphasis on clarity and accessibility.
+              User safeguards are only effective if they are discoverable, understandable, and manageable. Assurix focuses on how platforms present responsible-use tools and ongoing account controls, with an emphasis on clarity and accessibility.
             </p>
             <p className="text-base text-gray-500 mt-4 font-medium">
               Our work is observational and evaluative, not prescriptive.
@@ -203,7 +203,7 @@ function HomePage({ setCurrentPage }: { setCurrentPage: (page: string) => void }
                 <div>
                   <h2 className="text-2xl sm:text-3xl font-bold text-gray-900 mb-4">Our approach</h2>
                   <p className="text-base sm:text-lg text-gray-600 leading-relaxed mb-4">
-                    ControlPoint provides a neutral oversight lens that examines how guardrails are presented and maintained within digital platforms. We focus on the usability and clarity of safety mechanisms without pushing an agenda.
+                    Assurix provides a neutral oversight lens that examines how guardrails are presented and maintained within digital platforms. We focus on the usability and clarity of safety mechanisms without pushing an agenda.
                   </p>
                   <p className="text-base sm:text-lg text-gray-600 leading-relaxed">
                     We are not a regulator, advocacy organization, compliance body, or consumer help service. Our evaluations are structured, independent, and designed to illuminate how control systems function in practice.
@@ -284,7 +284,7 @@ function FocusAreasPage({ setCurrentPage }: { setCurrentPage: (page: string) => 
           <div className="max-w-3xl">
             <h1 className="text-4xl sm:text-5xl font-bold text-gray-900 mb-6 tracking-tight">Focus Areas</h1>
             <p className="text-lg sm:text-xl text-gray-600 leading-relaxed">
-              ControlPoint evaluates specific aspects of control presentation and management within digital platforms. Our focus areas represent the key dimensions through which user safeguards are experienced.
+              Assurix evaluates specific aspects of control presentation and management within digital platforms. Our focus areas represent the key dimensions through which user safeguards are experienced.
             </p>
           </div>
         </div>
@@ -340,7 +340,7 @@ function EvaluationPage() {
           <div className="max-w-3xl">
             <h1 className="text-4xl sm:text-5xl font-bold text-gray-900 mb-6 tracking-tight">Control Evaluation</h1>
             <p className="text-lg sm:text-xl text-gray-600 leading-relaxed">
-              ControlPoint applies structured analysis to understand how control systems are presented, explained, and managed within digital platforms.
+              Assurix applies structured analysis to understand how control systems are presented, explained, and managed within digital platforms.
             </p>
           </div>
         </div>
@@ -563,7 +563,7 @@ function ActiveEvaluationsPage() {
           <div className="mt-12 bg-gray-50 rounded-xl p-6 sm:p-8 border border-gray-100">
             <h3 className="text-lg font-semibold text-gray-900 mb-3">Evaluation pipeline</h3>
             <p className="text-gray-600 mb-4">
-              ControlPoint maintains a structured pipeline of evaluations across different platform types and control categories. Our selection prioritizes areas where control presentation has significant user impact.
+              Assurix maintains a structured pipeline of evaluations across different platform types and control categories. Our selection prioritizes areas where control presentation has significant user impact.
             </p>
             <p className="text-sm text-gray-500">
               Completed evaluations are documented and made available according to scope and category limitations. See Access & Scope for more information.
@@ -583,7 +583,7 @@ function MethodologyPage() {
           <div className="max-w-3xl">
             <h1 className="text-4xl sm:text-5xl font-bold text-gray-900 mb-6 tracking-tight">Methodology</h1>
             <p className="text-lg sm:text-xl text-gray-600 leading-relaxed">
-              ControlPoint applies a structured, observational approach to evaluate how control systems are presented and managed within digital platforms.
+              Assurix applies a structured, observational approach to evaluate how control systems are presented and managed within digital platforms.
             </p>
           </div>
         </div>
@@ -596,7 +596,7 @@ function MethodologyPage() {
               <h2 className="text-3xl font-bold text-gray-900 mb-6">Observational Approach</h2>
               <div className="bg-gray-50 rounded-xl p-6 sm:p-8 border border-gray-100">
                 <p className="text-base sm:text-lg text-gray-700 leading-relaxed mb-6">
-                  ControlPoint applies structured observation of control interfaces and flows. Our methodology emphasizes documentation and clarity assessment without behavioral inference or user scoring.
+                  Assurix applies structured observation of control interfaces and flows. Our methodology emphasizes documentation and clarity assessment without behavioral inference or user scoring.
                 </p>
                 <div className="space-y-4">
                   <div className="bg-white rounded-lg p-6 border border-gray-100">
@@ -713,7 +713,7 @@ function AccessScopePage() {
           <div className="max-w-3xl">
             <h1 className="text-4xl sm:text-5xl font-bold text-gray-900 mb-6 tracking-tight">Access & Scope</h1>
             <p className="text-lg sm:text-xl text-gray-600 leading-relaxed">
-              Understanding the availability and limitations of ControlPoint evaluations.
+              Understanding the availability and limitations of Assurix evaluations.
             </p>
           </div>
         </div>
@@ -755,7 +755,7 @@ function AccessScopePage() {
               <h2 className="text-3xl font-bold text-gray-900 mb-6">Scope Boundaries</h2>
               <div className="bg-purple-50 rounded-xl p-6 sm:p-8 border border-purple-100">
                 <p className="text-gray-700 leading-relaxed mb-6">
-                  ControlPoint evaluations focus specifically on control presentation and management interfaces. Our scope is intentionally limited to ensure clear, focused analysis.
+                  Assurix evaluations focus specifically on control presentation and management interfaces. Our scope is intentionally limited to ensure clear, focused analysis.
                 </p>
                 <div className="grid grid-cols-1 md:grid-cols-2 gap-6">
                   <div>
@@ -822,7 +822,7 @@ function AccessScopePage() {
               <h2 className="text-3xl font-bold text-gray-900 mb-6">Limitations</h2>
               <div className="bg-amber-50 rounded-xl p-6 sm:p-8 border border-amber-100">
                 <p className="text-gray-700 leading-relaxed mb-6 font-medium">
-                  ControlPoint does not:
+                  Assurix does not:
                 </p>
                 <ul className="space-y-4">
                   {[
@@ -836,7 +836,7 @@ function AccessScopePage() {
                     },
                     {
                       title: 'Replace regulatory oversight',
-                      description: 'ControlPoint evaluations supplement but do not substitute for official oversight mechanisms.'
+                      description: 'Assurix evaluations supplement but do not substitute for official oversight mechanisms.'
                     },
                     {
                       title: 'Offer consumer support services',
@@ -856,7 +856,7 @@ function AccessScopePage() {
               <h2 className="text-3xl font-bold text-gray-900 mb-6">Intended Use</h2>
               <div className="bg-gray-50 rounded-xl p-6 sm:p-8 border border-gray-100">
                 <p className="text-gray-700 leading-relaxed">
-                  ControlPoint evaluations are intended to provide structured observation and documentation of control presentation practices. They may be useful to policymakers, researchers, platform operators, and other parties interested in understanding how control systems are communicated and managed. Our outputs are informational in nature and should not be interpreted as endorsements, criticisms, or compliance determinations.
+                  Assurix evaluations are intended to provide structured observation and documentation of control presentation practices. They may be useful to policymakers, researchers, platform operators, and other parties interested in understanding how control systems are communicated and managed. Our outputs are informational in nature and should not be interpreted as endorsements, criticisms, or compliance determinations.
                 </p>
               </div>
             </div>
@@ -873,7 +873,7 @@ function AboutPage() {
       <section className="bg-gradient-to-b from-purple-50 to-white pt-12 sm:pt-20 pb-16 sm:pb-24">
         <div className="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8">
           <div className="max-w-3xl">
-            <h1 className="text-4xl sm:text-5xl font-bold text-gray-900 mb-6 tracking-tight">About ControlPoint</h1>
+            <h1 className="text-4xl sm:text-5xl font-bold text-gray-900 mb-6 tracking-tight">About Assurix</h1>
             <p className="text-lg sm:text-xl text-gray-600 leading-relaxed">
               An independent initiative examining how user controls and safeguards are presented within regulated digital environments.
             </p>
@@ -888,10 +888,10 @@ function AboutPage() {
               <h2 className="text-3xl font-bold text-gray-900 mb-6">Purpose</h2>
               <div className="bg-gray-50 rounded-xl p-6 sm:p-8 border border-gray-100">
                 <p className="text-base sm:text-lg text-gray-700 leading-relaxed mb-6">
-                  ControlPoint exists to examine how user controls and safeguards are surfaced within regulated digital environments. We focus on the presentation, clarity, and manageability of control systems.
+                  Assurix exists to examine how user controls and safeguards are surfaced within regulated digital environments. We focus on the presentation, clarity, and manageability of control systems.
                 </p>
                 <p className="text-gray-700 leading-relaxed mb-6">
-                  Effective safeguards require more than technical implementation—they must be discoverable, understandable, and accessible to the users they are designed to protect. ControlPoint applies structured observation to evaluate these dimensions.
+                  Effective safeguards require more than technical implementation—they must be discoverable, understandable, and accessible to the users they are designed to protect. Assurix applies structured observation to evaluate these dimensions.
                 </p>
                 <p className="text-gray-700 leading-relaxed">
                   Our work aims to illuminate how control systems function in practice, providing documentation that can inform policy discussions, platform development, and research initiatives.
@@ -903,7 +903,7 @@ function AboutPage() {
               <h2 className="text-3xl font-bold text-gray-900 mb-6">Independence</h2>
               <div className="bg-purple-50 rounded-xl p-6 sm:p-8 border border-purple-100">
                 <p className="text-gray-700 leading-relaxed mb-6">
-                  ControlPoint operates independently and does not promote or discourage platform use. We maintain a neutral stance focused on observation and documentation rather than advocacy or enforcement.
+                  Assurix operates independently and does not promote or discourage platform use. We maintain a neutral stance focused on observation and documentation rather than advocacy or enforcement.
                 </p>
                 <div className="grid grid-cols-1 md:grid-cols-2 gap-6">
                   <div className="bg-white rounded-lg p-6 border border-purple-100">
@@ -998,7 +998,7 @@ function Footer({ setCurrentPage }: { setCurrentPage: (page: string) => void }) 
           <div className="md:col-span-2">
             <div className="flex items-center space-x-2 mb-4">
               <Shield className="h-8 w-8 text-purple-400" />
-              <span className="text-xl font-semibold text-white">ControlPoint</span>
+              <span className="text-xl font-semibold text-white">Assurix</span>
             </div>
             <p className="text-gray-400 leading-relaxed max-w-md">
               Independent evaluation of user controls and safeguards within regulated digital platforms.
@@ -1051,12 +1051,12 @@ function Footer({ setCurrentPage }: { setCurrentPage: (page: string) => void }) 
         <div className="border-t border-gray-800 pt-8">
           <div className="flex flex-col md:flex-row justify-between items-center space-y-4 md:space-y-0">
             <p className="text-gray-400 text-sm text-center md:text-left">
-              ControlPoint provides informational evaluation of user controls and safeguards.
+              Assurix provides informational evaluation of user controls and safeguards.
               <br className="hidden sm:block" />
               Content does not constitute regulatory, legal, or compliance advice.
             </p>
             <p className="text-gray-500 text-sm">
-              © 2026 ControlPoint. All rights reserved.
+              © 2026 Assurix. All rights reserved.
             </p>
           </div>
         </div>
